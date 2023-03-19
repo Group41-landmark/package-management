@@ -70,3 +70,8 @@ curl 54.236.232.85:9000
 default USERNAME: admin
 default password: admin
 ```
+
+
+***************************************** Maven SonarQube Integration *********************************************************************
+
+Use Private IP of SonarQube server for vi pom.xml
